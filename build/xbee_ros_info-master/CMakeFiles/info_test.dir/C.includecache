@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dd/rospy_rs2/src/xbee_ros_info-master/src/serial.c
+serial.h
+/home/dd/rospy_rs2/src/xbee_ros_info-master/src/serial.h
+stdio.h
+-
+stdlib.h
+-
+sys/stat.h
+-
+unistd.h
+-
+string.h
+-
+termios.h
+-
+sys/select.h
+-
+errno.h
+-
+string.h
+-
+fcntl.h
+-
+
+/home/dd/rospy_rs2/src/xbee_ros_info-master/src/serial.h
+stdlib.h
+-
+

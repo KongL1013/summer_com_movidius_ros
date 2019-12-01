@@ -1,0 +1,8 @@
+prefix=/home/dd/rospy_rs2/devel
+
+Name: info
+Description: Description of info
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dd/rospy_rs2/devel/lib 
+Requires: 

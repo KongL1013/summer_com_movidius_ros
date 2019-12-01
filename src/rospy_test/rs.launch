@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="rospy_test" type="rs.py" name="rs" output="screen" respawn="true">
+    </node>
+</launch>

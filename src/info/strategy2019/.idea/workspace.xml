@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" GENERATION_DIR="$USER_HOME$/ClionProject" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4eb3cda-c4f9-44e8-8d36-ae4003d3f90c" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="comp_strategy" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1PmJgfWfL9nZ4akQa6vYQbfdQ1H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CMakeLists.txt" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="strategy2019" RUN_TARGET_NAME="strategy" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4eb3cda-c4f9-44e8-8d36-ae4003d3f90c" name="Default" comment="" />
+      <created>1534745488709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534745488709</updated>
+      <workItem from="1534745489905" duration="1580000" />
+      <workItem from="1534747101387" duration="1291000" />
+      <workItem from="1534748404207" duration="10959000" />
+      <workItem from="1534759378319" duration="2442000" />
+      <workItem from="1534762892257" duration="9059000" />
+      <workItem from="1534816172332" duration="33777000" />
+      <workItem from="1534864303309" duration="2067000" />
+      <workItem from="1534900764617" duration="8338000" />
+      <workItem from="1534916603492" duration="1376000" />
+      <workItem from="1534924105982" duration="5319000" />
+      <workItem from="1535121518880" duration="2093000" />
+      <workItem from="1535123621209" duration="904000" />
+      <workItem from="1566473452366" duration="501000" />
+      <workItem from="1566474508630" duration="86000" />
+      <workItem from="1566476766638" duration="6372000" />
+      <workItem from="1566483587334" duration="1724000" />
+    </task>
+    <task id="LOCAL-00001" summary="first day">
+      <created>1534779762162</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1534779762163</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first finished">
+      <created>1534860608207</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1534860608207</updated>
+    </task>
+    <task id="LOCAL-00003" summary="comment done">
+      <created>1534915192122</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1534915192122</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add Camera CB">
+      <created>1534917300473</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1534917300473</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix little bugs, add FAKE MODE">
+      <created>1534928517490</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1534928517490</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="first day" />
+    <MESSAGE value="first finished" />
+    <MESSAGE value="comment done" />
+    <MESSAGE value="add Camera CB" />
+    <MESSAGE value="fix little bugs, add FAKE MODE" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix little bugs, add FAKE MODE" />
+  </component>
+</project>

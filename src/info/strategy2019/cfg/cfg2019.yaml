@@ -1,0 +1,38 @@
+
+REFRESH_RATE: 10
+
+# size of the court
+LEFT_MOVING_MAX : 3.6
+RIGHT_MOVING_MAX: -3.6
+
+LEFT_NET_BOUND : 4
+RIGHT_NET_BOUND: -4
+
+
+# about moving limitation
+MAX_XY_ACC: 2.0
+MAX_XY_VEL: 1.0
+MAX_Z_ACC: 2.0
+MAX_Z_VEL: 0.81
+HEIGHT_MAX: 3
+HEIGHT_MIN: 0.35
+
+# Tolerance
+LARGE_TOLLERANCE_Z: 0.3
+LARGE_TOLLERANCE_XY: 0.4
+SMALL_TOLLERANCE_Z: 0.2
+SMALL_TOLLERANCE_XY: 0.3
+
+
+ #  circle index   0   1   2   3   4   5   6
+circleDirection: [0,  1, -1,  1, -1,  0,  1 ]   #  TOWARD_LEFT : -1, UNSET : 0, TOWARD_RIGHT : 1. Index starts from [1]
+
+BIAS_TO_YELLOW_BOARD: [ -1.5,  0,  0.25 ]
+BIAS_TO_PILLAR:       [ -0.5,  0,    0 ]
+
+
+BOARD_AIM_HEIGHT : 0.5
+GO_THROUGH_CIRCLE_HEIGHT : 1.45
+GO_THROUGH_CIRCLE_DISTANCE : 3
+PILLAR_AIM_HEIGHT : 1.0
+FLYING_OVER_PILLAR_HEIGHT : 1.5

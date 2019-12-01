@@ -1,0 +1,8 @@
+<launch>
+    <node pkg="strategy2019" type="strategy2019" name="strategy2019" output="screen">
+		<rosparam
+	        file="$(find strategy2019)/cfg/cfg2019.yaml"
+	        command="load"
+		/>
+    </node>
+</launch>

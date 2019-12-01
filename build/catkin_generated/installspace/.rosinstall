@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/dd/rospy_rs2/install/setup.sh

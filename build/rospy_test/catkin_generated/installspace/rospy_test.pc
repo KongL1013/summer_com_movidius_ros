@@ -1,0 +1,8 @@
+prefix=/home/dd/rospy_rs2/install
+
+Name: rospy_test
+Description: Description of rospy_test
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dd/rospy_rs2/install/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/dd/rospy_rs2/install
+
+Name: signal
+Description: Description of signal
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dd/rospy_rs2/install/lib 
+Requires: 

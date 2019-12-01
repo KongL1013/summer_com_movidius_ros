@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -shared -Wl,-soname,libseriallib_c.so -o /home/dd/rospy_rs2/devel/lib/libseriallib_c.so CMakeFiles/seriallib_c.dir/src/serial.c.o 

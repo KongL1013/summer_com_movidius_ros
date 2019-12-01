@@ -1,0 +1,8 @@
+prefix=/home/dd/rospy_rs2/install
+
+Name: pub_rospy
+Description: Description of pub_rospy
+Version: 0.0.0
+Cflags: -I/home/dd/rospy_rs2/install/include
+Libs: -L/home/dd/rospy_rs2/install/lib 
+Requires: 

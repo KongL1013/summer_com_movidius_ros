@@ -1,0 +1,2 @@
+info:pub_rospy:rospy_test:signal:strategy2019
+-DCATKIN_DEVEL_PREFIX=/home/dd/rospy_rs2/devel -DCMAKE_INSTALL_PREFIX=/home/dd/rospy_rs2/install -G Unix Makefiles
